@@ -59,3 +59,36 @@
 
 **2. Install the New Packages**
 * sudo apt install
+***
+
+**Permissions**
+***
+**1. It's give permision in MODE**
+* chmod
+
+**2. Give Access to the Root**
+* sudo
+***
+
+**Process Commands**
+***
+**1. View Information about Currently Running Processes**
+* ps
+
+**2. Built-in Monitoring Tool**
+* top
+
+**3. Sending a Signal to that Process to Change its Behavior/ Killing the Process**
+* kill
+***
+
+**Network Basics**
+***
+**1. Check if a Host is Reachable**
+* ping (Packet Inter-Network Groper)
+
+**2. Transfer Data to or from a Server**
+* curl (Client URL)
+
+**3. Download Files from the Web**
+* wget (World Wide Web Get)
